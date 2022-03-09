@@ -1,0 +1,64 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T02:24:40.487Z"}
+error: Could not connect to the database. connect ECONNREFUSED 127.0.0.1:27017 {"reason":{"commonWireVersion":null,"compatibilityError":null,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Single"},"stack":"Error: \n    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)\n    at new MongooseServerSelectionError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/serverSelection.js:26:1)\n    at NativeConnection.Connection.openUri (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/connection.js:847:32)\n    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/index.js:351:10\n    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/index.js:1149:10)","timestamp":"2022-02-28T02:25:10.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T02:26:04.625Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T02:26:30.284Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T02:31:50.514Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T02:31:50.529Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T09:26:38.845Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T09:26:38.860Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T09:40:26.825Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T09:40:26.843Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T09:40:38.959Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T09:40:38.972Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-28T09:42:56.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T09:44:02.380Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T09:44:02.395Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T11:57:21.820Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T11:57:21.834Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T11:59:01.405Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T11:59:01.425Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T14:14:17.293Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T14:14:17.313Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T16:19:13.135Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T16:19:13.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T16:19:47.506Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T16:19:47.521Z"}
+error: 
+    status - 500 
+    message - Error: Callback must be a function, got [object Object]
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at Function.Model.$handleCallbackError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/model.js:5067:11)
+    at Function.findByIdAndUpdate (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/model.js:2694:19)
+    at _callee10$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/services/note.service.js:113:29)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24) 
+    url - /api/v1/notes/colorNotes 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-28T16:19:57.756Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T16:20:29.450Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T16:20:29.466Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T16:21:06.845Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T16:21:06.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T16:21:45.903Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T16:21:45.917Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-28T16:23:16.569Z"}
+info: Connected to the database. {"timestamp":"2022-02-28T16:23:16.589Z"}

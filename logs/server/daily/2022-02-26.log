@@ -1,0 +1,80 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T02:32:52.005Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T02:33:07.097Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T02:34:50.324Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T02:34:50.339Z"}
+error: 
+      status - 9
+      message - Unknown modifier: $addtoset. Expected a valid update modifier or pipeline-style update specified as an array 
+      url - /api/v1/notes/colorNotes 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-02-26T02:35:02.472Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 9
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at appErrorHandler (/home/dell/Desktop/nodeProjects/fundooBackend/src/middlewares/error.middleware.js:36:26)
+    at Layer.handle_error (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/router/layer.js:71:5) 
+    url - /api/v1/notes/colorNotes 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-26T02:35:02.480Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T02:35:35.069Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T02:35:35.086Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:15:15.598Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:15:15.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:15:31.141Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:15:31.155Z"}
+error: 
+      status - 2
+      message - Cannot apply $addToSet to non-array field. Field named 'color' has non-array type string 
+      url - /api/v1/notes/colorNotes 
+      method - PUT 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-02-26T03:15:35.373Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 2
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at appErrorHandler (/home/dell/Desktop/nodeProjects/fundooBackend/src/middlewares/error.middleware.js:36:26)
+    at Layer.handle_error (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/router/layer.js:71:5) 
+    url - /api/v1/notes/colorNotes 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-26T03:15:35.379Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:16:19.339Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:16:19.353Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:21:17.936Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:21:17.952Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:28:13.289Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:28:13.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:29:47.465Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:29:47.479Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:30:39.066Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:30:39.081Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:32:25.976Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:32:25.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:33:27.533Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:33:27.546Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:34:30.217Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:34:30.230Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:34:37.422Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:34:37.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T03:34:56.519Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T03:34:56.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-26T13:01:14.964Z"}
+info: Connected to the database. {"timestamp":"2022-02-26T13:01:14.981Z"}

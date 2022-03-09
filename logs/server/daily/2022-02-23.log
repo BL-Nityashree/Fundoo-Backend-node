@@ -1,0 +1,293 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T02:40:37.829Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T02:40:37.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T02:57:58.757Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T02:57:58.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T03:04:11.404Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T03:04:11.421Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T03:09:48.717Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T03:09:48.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T03:20:41.314Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T03:20:41.330Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T03:21:22.972Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T03:21:22.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T03:21:39.231Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T03:21:39.247Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T04:02:46.214Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T04:02:46.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:44:13.736Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:44:13.749Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:51:52.865Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:51:52.878Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:52:36.054Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:52:36.067Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:53:24.928Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:53:24.943Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:53:55.438Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:53:55.454Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:59:06.323Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:59:06.340Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T06:59:50.587Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T06:59:50.599Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:07:06.544Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:07:06.555Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:23:43.815Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:23:43.828Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:29:47.070Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:29:47.084Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:29:51.795Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:29:51.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:30:04.926Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:30:04.943Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:31:33.893Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:32:41.079Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:33:16.569Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:33:16.582Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T07:34:07.462Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T07:34:07.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:05:32.040Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:05:32.053Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:06:21.550Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:06:21.565Z"}
+error: 
+    status - 500 
+    message - TypeError: noteService.getAllNotes is not a function
+    at _callee2$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:32:38)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getAllNotes (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:30:26) 
+    url - /api/v1/notes/getAllNotes 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-23T08:06:39.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:07:07.280Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:07:07.295Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:16:39.116Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:16:39.130Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:16:43.002Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:16:43.020Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:17:53.164Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:17:53.179Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:18:09.601Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:18:09.619Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:19:22.566Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:19:22.581Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:20:41.208Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:20:41.225Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T08:23:02.016Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T08:23:02.034Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T09:58:19.846Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T09:58:19.860Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:00:07.313Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:00:07.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:01:37.919Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:01:37.934Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:01:39.847Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:01:39.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:04:45.890Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:04:45.908Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:05:29.460Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:05:29.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:05:32.099Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:05:32.115Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:06:53.571Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:06:53.588Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:13:51.009Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:13:51.024Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:17:50.245Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:17:50.258Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:18:42.028Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:18:42.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:19:36.324Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:19:36.340Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_noteId?_noteId=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:20:00.374Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:21:13.754Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:21:13.769Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:21:15.448Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:21:15.463Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_noteId?_noteId=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:21:40.018Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:22:14.579Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:22:14.594Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:22:54.830Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:22:54.843Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:23:11.555Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:23:11.573Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:23:45.904Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:23:45.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:24:42.991Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:24:43.008Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_noteId?noteId=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:24:46.050Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:25:11.211Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:25:11.228Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:25:25.510Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:25:25.525Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:26:10.421Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:26:14.031Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:27:12.125Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:27:12.149Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:27:16.381Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:29:35.041Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:29:36.402Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:30:54.505Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:30:54.525Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:30:58.315Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:30:59.688Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T10:31:14.047Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T10:31:14.064Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/:_id?_id=6215e3c087ada468fe998203 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-02-23T10:31:17.468Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T11:52:05.110Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T11:52:05.128Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:16:51.655Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:16:51.674Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:50:53.370Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:50:53.387Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:53:23.945Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:53:23.968Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:53:24.066Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:54:02.129Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:54:02.144Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:55:44.225Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:55:44.259Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:55:44.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:56:34.790Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:56:34.808Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:56:34.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T12:57:45.500Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T12:57:45.515Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T13:03:22.210Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T13:03:22.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T13:07:18.843Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T13:07:18.857Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T13:09:56.178Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T13:09:56.197Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T13:09:56.243Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T13:10:54.798Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T13:10:54.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-23T13:14:10.542Z"}
+info: Connected to the database. {"timestamp":"2022-02-23T13:14:10.558Z"}

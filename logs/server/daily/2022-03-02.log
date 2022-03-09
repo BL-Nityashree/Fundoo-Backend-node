@@ -1,0 +1,835 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T02:31:20.441Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T02:31:20.459Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T02:43:17.465Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T02:43:17.498Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T02:57:10.280Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T02:57:10.295Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/62185facde3e24507588af32 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T02:59:17.097Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/: 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T02:59:39.166Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:01:02.783Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:01:02.799Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/: 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:01:21.055Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/: 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:01:21.968Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/: 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:01:22.775Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:03:46.432Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:03:46.448Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/62185fa7de3e24507588af30 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:03:48.002Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:05:51.042Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:05:51.063Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:05:51.092Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:06:28.158Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:06:28.178Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:06:28.381Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:06:38.407Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:06:38.425Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/62185fa7de3e24507588af30 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:07:01.218Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:08:09.678Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:08:09.701Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:08:09.764Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:08:46.976Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:08:46.992Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/62185fa7de3e24507588af30 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:08:47.976Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:09:29.213Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:09:29.240Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:09:29.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:09:36.917Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:09:36.931Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/62185fa7de3e24507588af30 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:09:41.994Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:10:31.542Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:10:31.568Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:10:31.715Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:10:54.285Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:10:54.299Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at new CastError (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/error/cast.js:31:7)
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/getNote/62185fa7de3e24507588af30 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T03:11:04.634Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:11:48.274Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:11:48.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:11:56.852Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:11:56.873Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:11:56.954Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T03:12:06.521Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T03:12:06.537Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:08:59.264Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:08:59.284Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:08:59.292Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:10:14.654Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:10:14.668Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:29:22.515Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:29:22.534Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:29:22.556Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:29:32.810Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:29:32.832Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:29:32.835Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:30:54.651Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:30:54.666Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:32:43.272Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1121,"messageId":"<a3c95388-d72d-064f-3f6a-0f37e3a72acb@gmail.com>","messageSize":635,"messageTime":930,"rejected":[],"response":"250 2.0.0 OK  1646206366 q21-20020a63e215000000b00373efe2cbcbsm14663042pgh.80 - gsmtp","timestamp":"2022-03-02T07:32:47.106Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:34:47.436Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:34:47.460Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:34:47.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:34:57.194Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:34:57.210Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:35:03.791Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1428,"messageId":"<81304b51-331e-69f1-6b0d-5010521c7393@gmail.com>","messageSize":635,"messageTime":1024,"rejected":[],"response":"250 2.0.0 OK  1646206507 t29-20020a63225d000000b0035e366803dasm14335738pgm.45 - gsmtp","timestamp":"2022-03-02T07:35:07.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:37:46.531Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:37:46.551Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:37:53.412Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1432,"messageId":"<8273946a-53fb-2aaf-a556-80b5369005ad@gmail.com>","messageSize":635,"messageTime":1040,"rejected":[],"response":"250 2.0.0 OK  1646206678 t41-20020a056a0013a900b004e167af0c0dsm20534068pfg.89 - gsmtp","timestamp":"2022-03-02T07:37:58.289Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:41:14.835Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:41:14.852Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:41:14.882Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:41:17.910Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:41:17.924Z"}
+error: 
+    status - 500 
+    message - ReferenceError: transport is not defined
+    at sendMail (/home/dell/Desktop/nodeProjects/fundooBackend/src/utils/helper.js:25:6)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/services/user.service.js:54:26)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:41:23.603Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:42:11.068Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:42:11.089Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:42:11.133Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:42:13.770Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:42:13.783Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:42:39.655Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1757,"messageId":"<62c9dcb4-fd75-d716-aa0d-0795a3915b06@gmail.com>","messageSize":635,"messageTime":1029,"rejected":[],"response":"250 2.0.0 OK  1646206968 oc3-20020a17090b1c0300b001bce36844c7sm4648347pjb.17 - gsmtp","timestamp":"2022-03-02T07:42:49.103Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:44:01.187Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:44:01.205Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:44:01.237Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:44:04.329Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:44:04.352Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:44:04.358Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:44:11.048Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:44:11.061Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:44:15.345Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":880,"messageId":"<c00138cf-8114-4ea0-715f-7229af25ed18@gmail.com>","messageSize":635,"messageTime":1379,"rejected":[],"response":"250 2.0.0 OK  1646207058 17-20020a056a00071100b004f0f941d1e8sm18488132pfl.24 - gsmtp","timestamp":"2022-03-02T07:44:18.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:48:42.902Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:48:42.922Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:48:42.936Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:48:45.337Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:48:45.366Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:48:45.375Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:48:53.222Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:48:53.237Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:48:56.398Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1137,"messageId":"<0f7150ba-6ef7-eb6d-2126-e01591d694e4@gmail.com>","messageSize":635,"messageTime":874,"rejected":[],"response":"250 2.0.0 OK  1646207339 oj1-20020a17090b4d8100b001bc1d74f724sm4295885pjb.32 - gsmtp","timestamp":"2022-03-02T07:48:59.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:51:36.629Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:51:36.648Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:51:36.676Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:51:39.342Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:51:39.362Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:51:39.383Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:51:49.300Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:51:49.313Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:51:54.565Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1162,"messageId":"<60520497-653c-fff5-4025-7b7f7f119ed5@gmail.com>","messageSize":635,"messageTime":1024,"rejected":[],"response":"250 2.0.0 OK  1646207517 s16-20020a63ff50000000b003650ee901e1sm14610895pgk.68 - gsmtp","timestamp":"2022-03-02T07:51:58.182Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:53:38.768Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:53:38.787Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:53:38.819Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:53:42.876Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:53:42.891Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:54:03.524Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1031,"messageId":"<eee93081-0df2-8d48-d777-a6a6ba2fdc53@gmail.com>","messageSize":635,"messageTime":1220,"rejected":[],"response":"250 2.0.0 OK  1646207647 pj12-20020a17090b4f4c00b001bc97c5b255sm4222493pjb.44 - gsmtp","timestamp":"2022-03-02T07:54:07.403Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:54:30.404Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:30.425Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:30.445Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:54:33.829Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:33.848Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:33.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:54:36.365Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:36.386Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:36.387Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:54:41.959Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:54:41.972Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:54:46.588Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:54:47.571Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1198,"messageId":"<0a07c99b-9cd6-8cb4-8e0b-d29616e9709c@gmail.com>","messageSize":635,"messageTime":880,"rejected":[],"response":"250 2.0.0 OK  1646207689 q14-20020a056a00150e00b004f1252a21casm19929696pfu.161 - gsmtp","timestamp":"2022-03-02T07:54:50.075Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":865,"messageId":"<e805b815-603d-9eaa-b653-cab7bbd10bb8@gmail.com>","messageSize":635,"messageTime":898,"rejected":[],"response":"250 2.0.0 OK  1646207690 d5-20020a056a0010c500b004e1b283a072sm19480363pfu.76 - gsmtp","timestamp":"2022-03-02T07:54:50.956Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:57:51.847Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:57:51.866Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:57:51.918Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:57:54.634Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:57:54.651Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:58:29.448Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:58:29.467Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:58:29.637Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:58:32.909Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:58:32.923Z"}
+error: 
+    status - 500 
+    message - ReferenceError: sendingMail is not defined
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/services/user.service.js:55:37)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:58:37.403Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1377,"messageId":"<0b2ebf49-8875-6739-1bc0-4a863ccab13b@gmail.com>","messageSize":635,"messageTime":1024,"rejected":[],"response":"250 2.0.0 OK  1646207921 w17-20020a056a0014d100b004f1063290basm19932604pfu.15 - gsmtp","timestamp":"2022-03-02T07:58:41.414Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:59:02.459Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:59:02.480Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:59:02.526Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T07:59:27.062Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T07:59:27.077Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T07:59:32.541Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1214,"messageId":"<7a85298d-4727-2738-77dd-be7753416370@gmail.com>","messageSize":635,"messageTime":1040,"rejected":[],"response":"250 2.0.0 OK  1646207977 s21-20020a63dc15000000b00378c9e5b37fsm5325254pgg.63 - gsmtp","timestamp":"2022-03-02T07:59:37.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:07:03.020Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:07:03.037Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:07:03.052Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:07:05.182Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:07:05.196Z"}
+error: 
+    status - 500 
+    message - ReferenceError: mailId is not defined
+    at _callee$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/utils/helper.js:19:13)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
+    at Object.sendMail (/home/dell/Desktop/nodeProjects/fundooBackend/src/utils/helper.js:7:24) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:07:10.132Z"}
+error: 
+    status - 500 
+    message - ReferenceError: mailId is not defined
+    at _callee$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/utils/helper.js:19:13)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
+    at Object.sendMail (/home/dell/Desktop/nodeProjects/fundooBackend/src/utils/helper.js:7:24) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:07:12.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:07:39.470Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:07:39.490Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:07:39.549Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:07:42.475Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:07:42.489Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:07:50.286Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:09:04.912Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:09:04.927Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:09:15.300Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:10:56.831Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:10:56.852Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:10:56.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:10:59.663Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:10:59.680Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:10:59.696Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:11:14.264Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:11:14.277Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:11:23.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:12:31.092Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:12:31.114Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:12:31.115Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:12:35.009Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:12:35.024Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:12:43.352Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:13:11.331Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:13:11.346Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:13:28.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:16:21.472Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:16:21.490Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:16:21.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:16:24.391Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:16:24.405Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:16:29.287Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1142,"messageId":"<4ed8be48-1ac0-15d6-13d2-a78a645a0232@gmail.com>","messageSize":636,"messageTime":1087,"rejected":[],"response":"250 2.0.0 OK  1646208992 w16-20020aa79a10000000b004e1bb6ea986sm19385216pfj.133 - gsmtp","timestamp":"2022-03-02T08:16:32.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:16:53.001Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:16:53.016Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:17:48.074Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:17:48.093Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:17:48.141Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:17:51.272Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:17:51.285Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:18:21.778Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:18:21.791Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (internal/errors.js:322:7)
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/on-headers/index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:221:10)
+    at ServerResponse.json (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/express/lib/response.js:267:15)
+    at _callee4$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/user.controller.js:72:31)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40) 
+    url - /api/v1/users/forgetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T08:18:26.452Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1280,"messageId":"<10527c76-8203-2363-971d-f4a91ba43a8f@gmail.com>","messageSize":628,"messageTime":1087,"rejected":[],"response":"250 2.0.0 OK  1646209110 u19-20020a056a00159300b004e1590f88c1sm20750982pfk.220 - gsmtp","timestamp":"2022-03-02T08:18:30.339Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:20:51.164Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:20:51.187Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:20:51.271Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:21:25.756Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:21:25.778Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:21:25.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:21:28.640Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:21:28.654Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1632,"messageId":"<32b81b51-dcac-9531-5270-2e4233da9d2f@gmail.com>","messageSize":628,"messageTime":1229,"rejected":[],"response":"250 2.0.0 OK  1646209297 u12-20020a17090a890c00b001b8efcf8e48sm4355638pjn.14 - gsmtp","timestamp":"2022-03-02T08:21:37.874Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1021,"messageId":"<3eb6d04b-b2b7-2f28-10c4-03b5dda329d6@gmail.com>","messageSize":628,"messageTime":1053,"rejected":[],"response":"250 2.0.0 OK  1646209362 m11-20020a17090a3f8b00b001bc299e0aefsm4230155pjc.56 - gsmtp","timestamp":"2022-03-02T08:22:42.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:26:08.517Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:26:08.540Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:26:08.599Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:26:12.164Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:26:12.179Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1333,"messageId":"<00c04b17-bb53-8bf7-b409-2f7bac8f3eb5@gmail.com>","messageSize":620,"messageTime":1597,"rejected":[],"response":"250 2.0.0 OK  1646209580 k22-20020aa788d6000000b004f1335c8889sm20082663pff.7 - gsmtp","timestamp":"2022-03-02T08:26:20.866Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":834,"messageId":"<fdff244f-b218-4266-c2e0-02537168f523@gmail.com>","messageSize":620,"messageTime":837,"rejected":[],"response":"250 2.0.0 OK  1646209596 d4-20020a17090a8d8400b001bc386dc44bsm4360416pjo.23 - gsmtp","timestamp":"2022-03-02T08:26:36.256Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1003,"messageId":"<eb524d9b-6b37-9a1a-976d-1a07e547ebcf@gmail.com>","messageSize":620,"messageTime":707,"rejected":[],"response":"250 2.0.0 OK  1646209597 ng11-20020a17090b1a8b00b001beefe9a1cbsm2164894pjb.31 - gsmtp","timestamp":"2022-03-02T08:26:37.392Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":850,"messageId":"<796a6068-85b5-4c53-aa60-90fac4a86edd@gmail.com>","messageSize":620,"messageTime":998,"rejected":[],"response":"250 2.0.0 OK  1646209598 y7-20020a655b47000000b00373ec9fcb06sm15149737pgr.27 - gsmtp","timestamp":"2022-03-02T08:26:38.310Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":845,"messageId":"<4ec839d5-9742-f72d-5743-4835b7713423@gmail.com>","messageSize":620,"messageTime":995,"rejected":[],"response":"250 2.0.0 OK  1646209598 k7-20020a6555c7000000b0034e101ca75csm14760569pgs.6 - gsmtp","timestamp":"2022-03-02T08:26:38.466Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1082,"messageId":"<3fcc9f8a-e6b2-f78e-4b8d-29b8ffb39164@gmail.com>","messageSize":620,"messageTime":1218,"rejected":[],"response":"250 2.0.0 OK  1646209623 d7-20020a056a00244700b004e1300a2f7csm19778440pfj.212 - gsmtp","timestamp":"2022-03-02T08:27:03.570Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1023,"messageId":"<f6173112-d15e-6018-fb8d-f626b83aeb0d@gmail.com>","messageSize":620,"messageTime":700,"rejected":[],"response":"250 2.0.0 OK  1646209627 a20-20020a056a000c9400b004f396b965a9sm20913076pfv.49 - gsmtp","timestamp":"2022-03-02T08:27:08.085Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":1227,"messageId":"<df9caa07-95a1-f993-7c50-2c9d4c903760@gmail.com>","messageSize":627,"messageTime":819,"rejected":[],"response":"250 2.0.0 OK  1646209762 k21-20020a056a00169500b004f65bbfca3asm718695pfc.57 - gsmtp","timestamp":"2022-03-02T08:29:23.139Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":5338,"messageId":"<ab714c1f-2cbc-9f94-c169-8b71e70cba27@gmail.com>","messageSize":627,"messageTime":4460,"rejected":[],"response":"250 2.0.0 OK  1646209845 q20-20020a056a00151400b004f3cd061d33sm20932675pfu.204 - gsmtp","timestamp":"2022-03-02T08:30:45.967Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6018,"messageId":"<ef4b9944-f177-c8df-99f9-2efff369c85d@gmail.com>","messageSize":627,"messageTime":2710,"rejected":[],"response":"250 2.0.0 OK  1646209846 m17-20020a17090a859100b001bc20ddcc67sm4329255pjn.34 - gsmtp","timestamp":"2022-03-02T08:30:46.279Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6077,"messageId":"<64876071-5bc7-08d0-00ad-d067dc9d39d5@gmail.com>","messageSize":627,"messageTime":3037,"rejected":[],"response":"250 2.0.0 OK  1646209846 r15-20020a63ce4f000000b00341c40f913esm14846270pgi.87 - gsmtp","timestamp":"2022-03-02T08:30:46.664Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6494,"messageId":"<a29e3c47-b510-8cc1-1dae-dcdf07952b3c@gmail.com>","messageSize":627,"messageTime":2288,"rejected":[],"response":"250 2.0.0 OK  1646209846 m11-20020a056a00080b00b004f0fbf3b524sm21029936pfk.206 - gsmtp","timestamp":"2022-03-02T08:30:46.865Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6485,"messageId":"<22b7de96-3dc6-f5eb-c055-1f4195742e37@gmail.com>","messageSize":627,"messageTime":3016,"rejected":[],"response":"250 2.0.0 OK  1646209847 z35-20020a631923000000b00373520fddd5sm15114723pgl.83 - gsmtp","timestamp":"2022-03-02T08:30:47.616Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6649,"messageId":"<0f94fd0f-025a-ebb1-0b5b-6a0f14305ca4@gmail.com>","messageSize":627,"messageTime":2906,"rejected":[],"response":"250 2.0.0 OK  1646209847 a38-20020a056a001d2600b004f0f0f852a4sm20476489pfx.77 - gsmtp","timestamp":"2022-03-02T08:30:47.884Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6003,"messageId":"<fa94e2f9-5dc2-ab8d-5e6b-21e65e98be52@gmail.com>","messageSize":627,"messageTime":4555,"rejected":[],"response":"250 2.0.0 OK  1646209848 s4-20020a056a0008c400b004e1ac002ccbsm20357976pfu.193 - gsmtp","timestamp":"2022-03-02T08:30:48.299Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6328,"messageId":"<df11bcc2-37ba-cb77-1928-2c1af0a4d916@gmail.com>","messageSize":627,"messageTime":3205,"rejected":[],"response":"250 2.0.0 OK  1646209848 s21-20020a056a00195500b004f65b15b3a0sm742306pfk.8 - gsmtp","timestamp":"2022-03-02T08:30:48.594Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6882,"messageId":"<5276b795-75a9-45ee-e730-59de54faa451@gmail.com>","messageSize":627,"messageTime":3050,"rejected":[],"response":"250 2.0.0 OK  1646209848 l13-20020a056a00140d00b004e13da93eaasm20755461pfu.62 - gsmtp","timestamp":"2022-03-02T08:30:48.958Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6907,"messageId":"<78a7df45-ba75-45dc-12ec-703e641a2745@gmail.com>","messageSize":627,"messageTime":3459,"rejected":[],"response":"250 2.0.0 OK  1646209849 gb9-20020a17090b060900b001beecaf986dsm2352185pjb.52 - gsmtp","timestamp":"2022-03-02T08:30:49.381Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6873,"messageId":"<639242c1-ac21-7b66-a32a-418ba19b6b05@gmail.com>","messageSize":627,"messageTime":3653,"rejected":[],"response":"250 2.0.0 OK  1646209849 z14-20020aa7888e000000b004e5c2c0b9dcsm20426863pfe.30 - gsmtp","timestamp":"2022-03-02T08:30:49.591Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":6734,"messageId":"<58e05aba-f4ce-75cf-0551-aecfdcdda9b4@gmail.com>","messageSize":627,"messageTime":3919,"rejected":[],"response":"250 2.0.0 OK  1646209849 l10-20020a056a00140a00b004c55d0dcbd1sm19398130pfu.120 - gsmtp","timestamp":"2022-03-02T08:30:49.868Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":874,"messageId":"<2f6a6e89-71d9-d005-8dfc-445e3c452c23@gmail.com>","messageSize":627,"messageTime":765,"rejected":[],"response":"250 2.0.0 OK  1646209955 t11-20020a056a0021cb00b004ce1a7d5ce8sm20395115pfj.113 - gsmtp","timestamp":"2022-03-02T08:32:35.480Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":1024,"messageId":"<f4f0829b-d11b-49ee-ee53-8f2238b2c9c5@gmail.com>","messageSize":627,"messageTime":1044,"rejected":[],"response":"250 2.0.0 OK  1646209956 n42-20020a056a000d6a00b004e1a01dcc35sm19585098pfv.150 - gsmtp","timestamp":"2022-03-02T08:32:36.440Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":800,"messageId":"<a9262055-1aa5-96f2-c0c0-6bbb02255f95@gmail.com>","messageSize":627,"messageTime":1048,"rejected":[],"response":"250 2.0.0 OK  1646209956 y191-20020a638ac8000000b0036c7329efadsm15175659pgd.65 - gsmtp","timestamp":"2022-03-02T08:32:36.595Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":812,"messageId":"<633b3197-1666-3d32-301a-31b786091af6@gmail.com>","messageSize":627,"messageTime":1317,"rejected":[],"response":"250 2.0.0 OK  1646209956 v22-20020a17090ad59600b001b7deb42251sm4152531pju.15 - gsmtp","timestamp":"2022-03-02T08:32:37.054Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":1366,"messageId":"<6601874e-1a38-de04-bfb0-6632046b6edd@gmail.com>","messageSize":627,"messageTime":926,"rejected":[],"response":"250 2.0.0 OK  1646209957 t12-20020a056a0021cc00b004e105f259e8sm20396353pfj.152 - gsmtp","timestamp":"2022-03-02T08:32:37.491Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":1294,"messageId":"<e702589f-04c3-db12-29e8-6bc1034e3efc@gmail.com>","messageSize":627,"messageTime":1273,"rejected":[],"response":"250 2.0.0 OK  1646209957 z11-20020a17090a1fcb00b001bc58804974sm4434236pjz.27 - gsmtp","timestamp":"2022-03-02T08:32:37.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:40:04.499Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:04.521Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:04.612Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:40:08.495Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:08.515Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:08.537Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:40:43.982Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:43.995Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:40:57.318Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:57.337Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:40:57.439Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:41:00.639Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:41:00.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:44:50.943Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:44:50.964Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:44:50.987Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:46:43.633Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:46:43.647Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:50:35.346Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:50:35.361Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:51:34.164Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:51:34.184Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:51:34.248Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T08:51:36.758Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T08:51:36.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T10:52:27.238Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T10:52:27.256Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T10:54:24.058Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T10:54:40.663Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T10:54:40.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:02:43.507Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:02:43.534Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:02:43.621Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:02:50.272Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:02:50.293Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:02:50.298Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:03:08.087Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:03:08.106Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:03:14.175Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:03:14.189Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:03:57.654Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:04:37.468Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:05:27.223Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:05:27.242Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:08:55.029Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:08:55.064Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:08:55.242Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:09:10.574Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:09:10.592Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:28:53.882Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:28:53.903Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:28:54.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:28:57.988Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:28:58.015Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:28:58.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:29:13.428Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:29:13.445Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:29:36.811Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:29:36.834Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:30:43.407Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:30:43.438Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:30:43.520Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:30:48.184Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:30:48.207Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:30:48.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:30:55.281Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:30:55.296Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:35:10.069Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:35:10.096Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:35:10.204Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:35:19.132Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:35:19.152Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":1390,"messageId":"<3c1dbd6b-ee5d-b603-a60a-4f496c04c841@gmail.com>","messageSize":620,"messageTime":1235,"rejected":[],"response":"250 2.0.0 OK  1646221202 n22-20020a056a0007d600b004f3ba7c23e2sm20737373pfu.37 - gsmtp","timestamp":"2022-03-02T11:40:02.596Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/services/user.service.js:41:13)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-02T11:41:19.013Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:49:18.675Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:49:18.701Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:49:18.884Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:59:08.522Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:59:08.549Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:59:08.642Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T11:59:16.756Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T11:59:16.776Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:00:06.978Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:00:06.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:05:38.364Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:05:38.384Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:05:38.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:05:43.053Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:05:43.075Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:05:43.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:05:51.330Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:05:51.344Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:08:08.556Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:08:08.575Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:08:08.693Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:08:21.415Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:08:21.432Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:10:44.834Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:10:44.858Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:10:44.918Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:10:52.460Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:10:52.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:11:50.103Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:11:50.134Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:11:50.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:11:55.968Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:11:55.981Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T12:13:08.188Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T12:13:08.204Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T13:13:27.775Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T13:13:27.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-02T13:14:21.598Z"}
+info: Connected to the database. {"timestamp":"2022-03-02T13:14:21.617Z"}

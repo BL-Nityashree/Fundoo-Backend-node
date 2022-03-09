@@ -1,0 +1,329 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T02:34:22.380Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T02:34:31.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T02:37:15.303Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T02:37:15.317Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T02:38:55.440Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T02:38:55.454Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T02:39:03.328Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T02:39:03.342Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T02:40:58.025Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T02:40:58.039Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T03:10:28.035Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T03:10:28.051Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T03:18:26.614Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T03:18:26.631Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T03:22:07.863Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T03:22:07.878Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T03:24:00.469Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T03:24:00.482Z"}
+info: undefined {"accepted":["nityashree.c@bridgelabz.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree.c@bridgelabz.com"]},"envelopeTime":1370,"messageId":"<b10ac042-2184-6629-fef5-5a9038c870f8@gmail.com>","messageSize":627,"messageTime":1428,"rejected":[],"response":"250 2.0.0 OK  1646277884 q15-20020a63504f000000b0037425262293sm501438pgl.43 - gsmtp","timestamp":"2022-03-03T03:24:44.830Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":874,"messageId":"<24914658-db9d-b62e-f247-7de530a6ee2e@gmail.com>","messageSize":620,"messageTime":1544,"rejected":[],"response":"250 2.0.0 OK  1646277934 f17-20020a056a001ad100b004f0ec1cbc4fsm589440pfv.109 - gsmtp","timestamp":"2022-03-03T03:25:34.520Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":876,"messageId":"<de7a8d35-350d-8b35-daa3-24cc46fc11cd@gmail.com>","messageSize":620,"messageTime":816,"rejected":[],"response":"250 2.0.0 OK  1646277937 z25-20020a056a001d9900b004f6505161ecsm570653pfw.139 - gsmtp","timestamp":"2022-03-03T03:25:37.524Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T03:27:17.317Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T03:27:17.331Z"}
+info: undefined {"accepted":["nityashree2508@gmail.com"],"envelope":{"from":"nityac2508@gmail.com","to":["nityashree2508@gmail.com"]},"envelopeTime":771,"messageId":"<1592c8d2-3dcd-da10-d37e-8ddec20d460e@gmail.com>","messageSize":628,"messageTime":924,"rejected":[],"response":"250 2.0.0 OK  1646278068 kb16-20020a17090ae7d000b001bcd7c2b2c0sm477525pjb.7 - gsmtp","timestamp":"2022-03-03T03:27:48.950Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T04:07:36.832Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:07:36.857Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:07:48.623Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:07:57.923Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:08:20.067Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:11:35.704Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'resetPassword' }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-03T04:14:14.305Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'resetPassword' }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/mongoose/lib/query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-03T04:14:38.868Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:15:10.538Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T04:15:43.048Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T10:22:40.588Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T10:22:40.601Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T10:30:15.031Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T10:30:15.044Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T10:30:54.788Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T10:30:54.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T10:42:14.965Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T10:42:14.978Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hashSync (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/bcrypt/bcrypt.js:91:15)
+    at _callee5$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/services/user.service.js:65:26)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9) 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-03T10:42:26.016Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T10:49:31.526Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T10:49:31.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T11:03:16.798Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T11:03:16.817Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T11:54:23.100Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T11:54:23.115Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:05:54.421Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:05:54.437Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:18:21.431Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:18:21.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:18:27.797Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:18:27.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:30:30.406Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:30:30.420Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:33:48.195Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:33:48.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:42:11.940Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:42:11.954Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:47:50.927Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:47:50.940Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:52:08.831Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:52:08.844Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T12:55:30.408Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T12:55:30.422Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:55:56.820Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:56:44.251Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:56:47.834Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:56:49.533Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:57:52.994Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:57:53.832Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:57:54.904Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:57:57.001Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:57:57.866Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee9$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:191:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getArchiveNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:189:33) 
+    url - /api/v1/notes/getArchiveNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T12:59:09.964Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T13:00:24.961Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T13:00:24.973Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T13:00:27.839Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T13:00:27.855Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T13:01:57.117Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T13:02:45.235Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T13:02:45.247Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T13:03:08.203Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T13:03:08.216Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee8$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:171:66)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at getTrashNotesList (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:169:31) 
+    url - /api/v1/notes/getTrashNotes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-03T13:03:56.289Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:14:37)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at addNote (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:11:21) 
+    url - /api/v1/notes/addnote 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-03T13:05:58.301Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-03T14:27:15.984Z"}
+info: Connected to the database. {"timestamp":"2022-03-03T14:27:16.006Z"}
