@@ -35,29 +35,29 @@ export const userAuthorization = async (req, res, next) => {
 
   try {
     let bearerToken = req.header('Authorization');
-    // console.log("inside try", bearerToken);
+     console.log("inside try", bearerToken);
     if (!bearerToken){
-    // console.log("inside if");
+     console.log("inside if");
       throw {
         code: HttpStatus.BAD_REQUEST,
         message: 'Authorization token required'
       }
     }else{
-    // console.log("inside else", bearerToken);
+     console.log("inside else", bearerToken);
      bearerToken = bearerToken.split(' ')[1];
-    // console.log("inside else",bearerToken);
+     console.log("inside else",bearerToken);
     const user  = await jwt.verify(bearerToken, process.env.SECRET_KEY, (err, token) => {
-      // console.log("insideuser",user);
+       console.log("insideuser",user);
       if (err) {
-        // console.log("inside other if");
+         console.log("inside other if");
         throw {
           code: HttpStatus.BAD_REQUEST,
           message: 'Authorization token is not correct'
         }
       } else {
-        // console.log("insideother else");
+        console.log("insideother else");
         req.body['data'] = token;
-        // console.log("req data==========", req.body.data);
+         console.log("req data==========", req.body.data);
         next();
       }
 

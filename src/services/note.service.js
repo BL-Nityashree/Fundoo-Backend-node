@@ -3,7 +3,7 @@ import { client } from '../config/redis';
 
 //add a note
 export const addNoteService = async (body) => {
-    // console.log("note body =========", body);
+     console.log("note body =========", body);
     await client.del('getData');
     const data = await Note.create(body);
     return data;

@@ -1,0 +1,31 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:38:53.227Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:38:53.253Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:50:14.694Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:50:14.724Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read property 'id' of undefined
+    at _callee$ (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:14:37)
+    at tryCatch (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:294:22)
+    at Generator.next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/regenerator-runtime/runtime.js:119:21)
+    at asyncGeneratorStep (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at /home/dell/Desktop/nodeProjects/fundooBackend/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
+    at addNote (/home/dell/Desktop/nodeProjects/fundooBackend/src/controllers/note.controller.js:11:21) 
+    url - /api/v1/notes/addNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-22T04:50:45.655Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:51:51.769Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:51:51.795Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:52:09.119Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:52:09.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:55:15.794Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:55:15.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:55:18.381Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:55:18.408Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-22T04:55:27.359Z"}
+info: Connected to the database. {"timestamp":"2022-03-22T04:55:27.389Z"}

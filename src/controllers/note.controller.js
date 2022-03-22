@@ -10,9 +10,9 @@ import * as noteService from '../services/note.service'
  */
 export const addNote = async (req, res, next) => {
   try {
-    //  let UserId = req.body.data.id;
+      let UserId = req.body.data.id;
     req.body.UserId = req.body.data.id;
-    // console.log("req body=========", req.body);
+     console.log("req body=========", req.body);
     const data = await noteService.addNoteService(req.body);
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
